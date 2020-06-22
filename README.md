@@ -1,1 +1,1 @@
-:tada:
+<span style="font-size:8rem">:tada:</span>
