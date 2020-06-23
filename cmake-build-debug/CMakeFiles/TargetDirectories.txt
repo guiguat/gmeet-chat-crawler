@@ -1,3 +1,0 @@
-/home/guilhermeguatura/CLionProjects/chatcrawler/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/guilhermeguatura/CLionProjects/chatcrawler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/guilhermeguatura/CLionProjects/chatcrawler/cmake-build-debug/CMakeFiles/chatcrawler.dir
