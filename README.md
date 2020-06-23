@@ -1,5 +1,5 @@
-<p>
-    <img src="logo.png"/>
+<p align="center">
+    <img src="logo.png" height="250"/>
 </p>
 
 # G. Meet Chat Crawler
