@@ -4,7 +4,7 @@
 
 # G. Meet Chat Crawler
 this is a command-line application built to help you
-know exactly who went to your meeting using the chat log .txt file.
+know exactly who was in your meeting using the chat log .txt file.
 
 ## Usage
 Clone the repository:
